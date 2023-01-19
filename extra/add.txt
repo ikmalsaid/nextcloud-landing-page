@@ -1,0 +1,1 @@
+<a href="/server-manager" onclick="window.location.href = &quot;http://&quot; + window.location.hostname + &quot;/server-manager&quot;; return false;"> Server Manager</a>
